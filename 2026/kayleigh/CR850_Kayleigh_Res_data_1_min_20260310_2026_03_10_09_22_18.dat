@@ -1,0 +1,5 @@
+"TOA5","CR850_Kayleigh","CR800","19785","CR800.Std.32.06","CPU:mini_AWS_Kayleigh.CR8","62587","Res_data_1_min"
+"TIMESTAMP","RECORD","BattV","temperature","rel_humidity","wind_speed","gust_speed","wind_direction"
+"TS","RN","Volts","degC","%","m/s","m/s","deg"
+"","","Min","Avg","Smp","Avg","Max","Smp"
+"2026-03-10 09:22:00",11265,11.84,-7.14,79.8,10.27,11.46,31.29
