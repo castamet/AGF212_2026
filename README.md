@@ -2,7 +2,8 @@
 This repository contains the measurement data and code from the AGF212 2026 Weather group. It includes data from 3 automatic weather stations that were set up on Tellbreen and Blekumbreen between March 2nd to March 10th. Furthermore, the repository contains TinyTag and model data. We also uploaded the code we wrote to analyse the data.  
 The Automatic Weather Station data are provided as .dat files, the Tinytag data are .csv files.  
 
-The folder names correspond to the names of the logger boxes used at the weather stations.  
+Folder 2026 contains observational data and the model data.  
+The subfolder names in folder 2026 correspond to the names of the logger boxes used at the weather stations.  
 **Eileen** = Blekumbreen weather station  
 **Layla** = Lower Tellbreen weather station  
 **BobbyMcGee** = Upper Tellbreen weather station, lower level  
